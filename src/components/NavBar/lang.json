@@ -1,0 +1,32 @@
+{
+   "links": [
+      {
+         "link":"/",
+         "label":{"en":"home", "ar":"الرئيسية"}
+      },
+      {
+         "link":"contact",
+         "label":{"en":"contact", "ar":"التواصل"}
+      },
+      {
+         "link":"services",
+         "label":{"en":"services", "ar":"الخدمات"}
+      },
+      {
+         "link":"blog",
+         "label":{"en":"blog", "ar":"المدونة"}
+      },
+      {
+         "link":"portfolio",
+         "label":{"en":"portfolio", "ar":"المعرض"}
+      },
+      {
+         "link":"process",
+         "label":{"en":"process", "ar":"العملية"}
+      },
+      {
+         "link":"about",
+         "label":{"en":"about", "ar":"عنى"}
+      }
+   ]
+}
